@@ -56,5 +56,4 @@ public class Event {
 		this.pictures = pictures;
 	}
 	
-	//Kommentar
 }
